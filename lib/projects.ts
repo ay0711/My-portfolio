@@ -335,7 +335,7 @@ const projects: Project[] = [
   },
     {
       id: 10,
-    slug: "Football lineup-generator",
+    slug: "football-lineup-generator",
       title: "Football Lineup Generator",
       category: "Website",
       shortDescription:

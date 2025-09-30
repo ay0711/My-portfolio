@@ -151,16 +151,14 @@
     "skills": [
       "Front-End Development",
       "Back-End Development",
-      "React.js",
-      "JavaScript",
-      "HTML5",
-      "CSS3",
-      "RESTful APIs",
-      "Version Control (Git)",
-      "Responsive Design",
-      "Node.js",
-      "Testing & Debugging",
-      "Performance Optimization"
+      "API Design & Integration",
+      "Database Management",
+      "Database Design",
+      "Critical Thinking",
+      "Team Collaboration",
+      "Problem Solving",
+      "Code Review",
+      "Debugging"
     ]
   },
   "technicalSkills": {
@@ -174,10 +172,9 @@
       "Node.js",
       "Express.js",
       "MongoDB",
-      "SQL",
+      "GraphQL",
       "Git",
       "RESTful APIs",
-      "GraphQL",
       "Responsive Design",
       "Testing & Debugging",
       "Performance Optimization",
