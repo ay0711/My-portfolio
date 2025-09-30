@@ -31,7 +31,7 @@ export function CredentialsSection() {
                       <div className="relative w-10 h-10 rounded overflow-hidden mr-3 flex-shrink-0 bg-zinc-800">
                         <Image
                           src={cert.logo || "/placeholder.svg"}
-                          alt={cert.issuer}
+                          alt={`${cert.issuer || 'Certification'} logo`}
                           fill
                           className="object-contain p-1"
                         />
@@ -63,7 +63,7 @@ export function CredentialsSection() {
                       <div className="relative w-10 h-10 rounded overflow-hidden mr-3 flex-shrink-0 bg-zinc-800">
                         <Image
                           src={edu.logo || "/placeholder.svg"}
-                          alt={edu.institution}
+                          alt={`${edu.institution || 'Institution'} logo`}
                           fill
                           className="object-contain p-1"
                         />

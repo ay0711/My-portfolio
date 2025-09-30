@@ -134,8 +134,8 @@
   "credentials": {
     "certifications": [
       {
-        "name": "Certified Web Developer",
-        "issuer": "SQI",
+        "name": "Software Engineering Diploma",
+        "issuer": "SQI college of ICT ",
         "date": "2025",
         "logo": "/sqi.png"
       }
@@ -146,6 +146,18 @@
         "institution": "Federal University, Oye-Ekiti",
         "year": "2018-2023",
         "logo": "/fuoye.jpeg"
+      },
+            {
+        "degree": "Software Engineering Diploma",
+        "institution": "SQI college of ICT ",
+        "year": "2024-2025",
+        "logo": "/sqi.png"
+      },
+      {
+        "degree": "Secondary School Certificate",
+        "institution": "Ayegun Baptist church college, Ogbomoso",
+        "year": "2015-2017",
+        "logo": "/placeholder-logo.png"
       }
     ],
     "skills": [
