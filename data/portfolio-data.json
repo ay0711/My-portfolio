@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "title": "Oladiran Ayanfe | Fullstack Web Developer",
+    "description": "Portfolio website showcasing product design work and skills"
+  },
+  "personal": {
+    "name": "Oladiran Ayanfe",
+    "title": "Web Developer",
+    "location": "Ogbomoso, Nigeria",
+    "avatar": "/ay.jpg",
+    "email": "Oladiranayanfe7@gmail.com",
+    "phone": "+234 7043945459",
+    "workingHours": "Monday - Friday, 9am - 5pm WAT",
+    "availableForWork": true,
+    "badges": ["web DDeveloper", "Linguist"],
+    "social": [
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/ay0711",
+        "icon": "Github"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/in/oladiran-ayanfe-019229355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "icon": "Linkedin"
+      },
+      {
+        "platform": "Twitter",
+        "url": "https://x.com/Ayanfe0102?t=cq_LBP2NCJGIMfI6HbwS7g&s=08",
+        "icon": "Twitter"
+      },
+      {
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/peace.oladiran.37?igsh=MWgxaWJ1dHowcmsweQ==",
+        "icon": "Instagram"
+      }
+    ]
+  },
+  "about": {
+    "bio": "I build modern, responsive web applications focused on usability and performance. With over 2 years of experience in fullstack web development, I am passionate about creating accessible solutions and continuously improving my skills.",
+    "focus": [
+      "Building scalable and responsive web applications",
+      "Integrating front-end and back-end technologies",
+      "Optimizing performance and accessibility for all users"
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "proficiency": "Native",
+        "level": 80,
+        "flag": "🇺🇸"
+      },
+      {
+        "name": "Hause",
+        "proficiency": "Intermediate",
+        "level": 50,
+        "flag": "NG"
+      },
+      {
+        "name": "French",
+        "proficiency": "Intermediate",
+        "level": 60,
+        "flag": "🇫🇷"
+      },
+      {
+        "name": "Yoruba",
+        "proficiency": "Native",
+        "level": 100,
+        "flag": "NG"
+      }
+    ],
+    "interests": ["Web Development", "Accessibility", "User Experience", ""]
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Experience",
+      "href": "#experience"
+    },
+    {
+      "label": "Credentials",
+      "href": "#credentials"
+    },
+    {
+      "label": "Skills",
+      "href": "#skills"
+    },
+    {
+      "label": "Projects",
+      "href": "#projects"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Web Developer Intern",
+      "company": "SQI College of ICT",
+      "period": "2025 - Present",
+      "description": "Worked as a web developer intern at SQI College of ICT, supporting the development team. Assisted in building and maintaining web applications, participated in code reviews, and contributed to front-end and back-end development tasks. Gained hands-on experience in modern web technologies and collaborative workflows.",
+      "achievements": [
+      "Developed and maintained core web application features using React and JavaScript",
+      "Implemented responsive design, improving mobile usability by 30%",
+      "Collaborated with backend developers to integrate RESTful APIs and optimize data flow"
+      ],
+      "technologies": ["React", "JavaScript", "HTML/CSS", "RESTful APIs", "Git"]
+    },
+    {
+      "title": "Part-time Web Developer",
+      "company": "Sky-high Courier",
+      "period": "2025",
+      "description": "Worked part-time to build and launch the Sky-high Courier website. Developed core features, implemented responsive design, and ensured seamless user experience for customers booking courier services online.",
+      "achievements": [
+      "Built and deployed a fully functional courier booking website",
+      "Integrated real-time tracking and automated notifications for users",
+      "Optimized site performance and accessibility for all devices"
+      ],
+      "technologies": ["JavaScript", "HTML/CSS", "RESTful APIs", "Git"]
+    },
+    {
+      "title": "Freelance Web Developer",
+      "company": "Self-Employed",
+      "period": "2024 - 2025",
+      "description": "Worked as a freelance web developer, collaborating with clients to create custom websites and web applications. Managed projects from concept to deployment, ensuring client satisfaction and delivering high-quality solutions.",
+      "achievements": [
+        "Successfully completed 3+ freelance projects for small businesses and startups",
+        "Built responsive websites that improved client online presence and user engagement",
+        "Provided ongoing maintenance and support for client websites"
+      ],
+      "technologies": ["React", "JavaScript", "HTML/CSS", "Git", "Node.js"]
+    }
+  ],
+  "credentials": {
+    "certifications": [
+      {
+        "name": "Certified Web Developer",
+        "issuer": "SQI",
+        "date": "2025",
+        "logo": "/sqi.png"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Arts in Linguistics and Language Studies",
+        "institution": "Federal University, Oye-Ekiti",
+        "year": "2018-2023",
+        "logo": "/fuoye.jpeg"
+      }
+    ],
+    "skills": [
+      "Front-End Development",
+      "Back-End Development",
+      "React.js",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "RESTful APIs",
+      "Version Control (Git)",
+      "Responsive Design",
+      "Node.js",
+      "Testing & Debugging",
+      "Performance Optimization"
+    ]
+  },
+  "technicalSkills": {
+    "development": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "TypeScript",
+      "React.js",
+      "Next.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "SQL",
+      "Git",
+      "RESTful APIs",
+      "GraphQL",
+      "Responsive Design",
+      "Testing & Debugging",
+      "Performance Optimization",
+      "Authentication & Authorization",
+      "WebSockets",
+      "Docker"
+    ],
+    "tools": [
+      "VS Code",
+      "GitHub",
+      "Postman",
+      "Chrome DevTools",
+      "Webpack",
+      "ESLint"
+    ],
+    "other": [
+      "Version Control",
+      "Deployment",
+      "Agile Methodologies",
+      "CI/CD",
+      "Cloud Services (Render, Netlify, Azure, Vercel)",
+      "API Documentation",
+      "Security Best Practices"
+    ]
+  },
+  "softSkills": ["Team Leadership", "Project Management", "Client Communication", "Mentoring", "Presentations"]
+}
