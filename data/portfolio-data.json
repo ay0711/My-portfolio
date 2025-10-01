@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Oladiran Ayanfe | Fullstack Web Developer",
+    "title": "Oladiran Ayanfe Peace | Fullstack Web Developer",
     "description": "Portfolio website showcasing product design work and skills"
   },
   "personal": {
-    "name": "Oladiran Ayanfe",
+    "name": "Oladiran Ayanfe Peace",
     "title": "Web Developer",
     "location": "Ogbomoso, Nigeria",
     "avatar": "/ay.jpg",
@@ -12,7 +12,7 @@
     "phone": "+234 7043945459",
     "workingHours": "Monday - Friday, 9am - 5pm WAT",
     "availableForWork": true,
-    "badges": ["web DDeveloper", "Linguist"],
+    "badges": ["web Developer", "Linguist"],
     "social": [
       {
         "platform": "GitHub",
