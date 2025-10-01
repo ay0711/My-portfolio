@@ -113,7 +113,7 @@ export function PortfolioHeader() {
       {/* Mobile Navigation */}
       <div
         className={cn(
-          "fixed inset-0 bg-black/95 z-40 flex flex-col pt-20 px-4 md:hidden transition-all duration-500",
+          "fixed inset-0 bg-gradient-to-br from-zinc-900/95 via-zinc-800/95 to-black/95 backdrop-blur-md z-40 flex flex-col pt-20 px-4 md:hidden transition-all duration-500",
           mobileMenuOpen ? "opacity-100 translate-x-0" : "opacity-0 translate-x-full pointer-events-none",
         )}
       >
