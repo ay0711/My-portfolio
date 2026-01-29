@@ -401,6 +401,38 @@ const projects: Project[] = [
     liveUrl: "https://ai-ten-alpha-19.vercel.appp/",
     githubUrl: "https://github.com/ay0711/AI.git",
   },
+        {
+      id: 12,
+    slug: "Blog-site",
+      title: "Blog Site Project",
+      category: "Website",
+      shortDescription:
+        "A blog site for sharing articles and updates.",
+      description: [
+        "The Blog Site Project is a web application that allows users to create and share blog posts on various topics.",
+      ],
+    features: [
+      "User-friendly interface for creating and managing blog posts",
+      "Rich text editor for formatting content",
+      "Commenting system for reader engagement",
+      "Categorization and tagging of blog posts",
+      "Responsive design for use on any device",
+      "Social sharing options for blog posts",
+      "SEO optimization features",
+    ],
+    technologies: ["Nextjs", "Typescript", "Tailwind CSS", "Node.js", "Render", "API",  "Vercel"],
+    coverImage: "/blog1.png",
+    thumbnailImage: "/blog1.png",
+    gallery: [
+      { url: "/blog1.png", caption: "Main Dashboard Overview" },
+      { url: "/blog2.png", caption: "Sign-in" },
+      { url: "/blog3.png", caption: "Sign-up" },
+    ],
+    timeline: "2 weeks (Q2 2025)",
+    role: "Fullstack Developer",
+    liveUrl: "https://my-blog-xq4r.vercel.app/",
+    githubUrl: "https://github.com/ay0711/My-blog.git",
+  },
 ]
 
 export { projects }
