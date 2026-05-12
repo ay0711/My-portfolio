@@ -1,19 +1,24 @@
 {
   "meta": {
-    "title": "Oladiran Ayanfe Peace | Fullstack Web Developer",
-    "description": "Portfolio website showcasing product design work and skills"
+    "title": "Oladiran Ayanfe Peace | Full Stack Web Developer",
+    "description": "Junior Full Stack Developer specializing in MERN, Next.js, and WordPress with strong problem-solving and performance-focused engineering skills."
   },
   "personal": {
     "name": "Oladiran Ayanfe Peace",
-    "title": "Web Developer",
-    "location": "Ogbomoso, Nigeria",
+    "title": "Full Stack Web Developer",
+    "location": "No 12 Alhaji Ajala Street, Orile-Iganmu, Lagos, Lagos State",
     "avatar": "/ay.jpg",
-    "email": "Oladiranayanfe7@gmail.com",
-    "phone": "+234 7043945459",
+    "email": "oladiranayanfe7@gmail.com",
+    "phone": "07043945459",
     "workingHours": "Monday - Friday, 9am - 3pm WAT",
     "availableForWork": true,
-    "badges": ["Web Developer", "Linguist"],
+    "badges": ["Full Stack Developer", "Linguist"],
     "social": [
+      {
+        "platform": "Portfolio",
+        "url": "https://my-portfolio-blue-nine-49.vercel.app",
+        "icon": "Globe"
+      },
       {
         "platform": "GitHub",
         "url": "https://github.com/ay0711",
@@ -37,18 +42,18 @@
     ]
   },
   "about": {
-    "bio": "I build modern, responsive web applications focused on usability and performance. With over 2 years of experience in fullstack web development, I am passionate about creating accessible solutions and continuously improving my skills.",
+    "bio": "Highly motivated Full Stack Web Developer and recent Linguistics graduate with a strong foundation in advanced problem-solving, logical reasoning, and structured data management. I build, deploy, and maintain scalable web applications across the MERN stack, Next.js, and WordPress while prioritizing code integrity, performance optimization, and disciplined Git/GitHub workflows.",
     "focus": [
-      "Building scalable and responsive web applications",
-      "Integrating front-end and back-end technologies",
-      "Optimizing performance and accessibility for all users"
+      "Building scalable full-stack web applications",
+      "Delivering secure APIs and maintainable architecture",
+      "Improving performance, reliability, and developer workflows"
     ],
     "languages": [
       {
         "name": "English",
         "proficiency": "Native",
         "level": 80,
-        "flag": "🇺🇸"
+        "flag": "US"
       },
       {
         "name": "Hausa",
@@ -60,7 +65,7 @@
         "name": "French",
         "proficiency": "Intermediate",
         "level": 60,
-        "flag": "🇫🇷"
+        "flag": "FR"
       },
       {
         "name": "Yoruba",
@@ -69,7 +74,7 @@
         "flag": "NG"
       }
     ],
-    "interests": ["Web Development", "Accessibility", "User Experience", ""]
+    "interests": ["Web Development", "Cloud Operations", "Data Structures and Algorithms", "User Experience"]
   },
   "navigation": [
     {
@@ -95,122 +100,123 @@
   ],
   "experience": [
     {
+      "title": "Executive Officer (ICT)",
+      "company": "Royal Heritage Law Firm",
+      "period": "Present",
+      "description": "Maintains and optimizes law firm web platforms across WordPress and MERN implementations, while overseeing data infrastructure, internal tools, and executive ICT support operations.",
+      "achievements": [
+        "Maintained and optimized a portfolio of firm websites with 99.9% uptime and measurable performance improvements",
+        "Managed and secured cloud data infrastructure with full policy compliance and zero security incidents",
+        "Developed and integrated internal digital tools and APIs that reduced administrative processing time by 15-20%",
+        "Provided executive-level technical support, resolving most ICT issues within the first hour"
+      ],
+      "technologies": ["WordPress", "MERN Stack", "RESTful APIs", "Cloud Infrastructure", "Git", "GitHub"]
+    },
+    {
       "title": "Web Developer Intern",
       "company": "SQI College of ICT",
-      "period": "2025 - Present",
-      "description": "Worked as a web developer intern at SQI College of ICT, supporting the development team. Assisted in building and maintaining web applications, participated in code reviews, and contributed to front-end and back-end development tasks. Gained hands-on experience in modern web technologies and collaborative workflows.",
+      "period": "2024 - Present",
+      "description": "Architects and deploys practical full-stack projects with a focus on secure APIs, optimized frontend rendering, cloud-backed applications, and strong collaboration practices.",
       "achievements": [
-      "Developed and maintained core web application features using React and JavaScript",
-      "Implemented responsive design, improving mobile usability by 30%",
-      "Collaborated with backend developers to integrate RESTful APIs and optimize data flow"
+        "Built and deployed a secure full-stack banking application using React, Node.js, and MongoDB",
+        "Implemented JWT authentication and input validation for REST APIs to protect data integrity",
+        "Optimized frontend rendering to reduce initial page load time by 25% on key pages",
+        "Engineered a Google Keep clone with Firebase and modern web technologies",
+        "Integrated an external AI API into a project and applied DSA principles to improve code performance"
       ],
-      "technologies": ["React", "JavaScript", "HTML/CSS", "RESTful APIs", "Git"]
+      "technologies": ["React", "Next.js", "Node.js", "MongoDB", "Firebase", "JWT", "RESTful APIs", "Git", "GitHub"]
     },
     {
-      "title": "Part-time Web Developer",
-      "company": "Sky-high Courier",
-      "period": "2025",
-      "description": "Worked part-time to build and launch the Sky-high Courier website. Developed core features, implemented responsive design, and ensured seamless user experience for customers booking courier services online.",
+      "title": "Treasurer & Head of Corpers",
+      "company": "Kogi NYSC State Team & Baptist Group of School",
+      "period": "2023 - 2024",
+      "description": "Led administrative and leadership operations while managing financial records and ensuring accountability in fund handling for large team activities.",
       "achievements": [
-      "Built and deployed a fully functional courier booking website",
-      "Integrated real-time tracking and automated notifications for users",
-      "Optimized site performance and accessibility for all devices"
+        "Managed financial records and safeguarded fund integrity in leadership and support roles",
+        "Led and coordinated corps members, demonstrating strong organization and administrative discipline"
       ],
-      "technologies": ["JavaScript", "HTML/CSS", "RESTful APIs", "Git"]
-    },
-    {
-      "title": "Freelance Web Developer",
-      "company": "Self-Employed",
-      "period": "2024 - 2025",
-      "description": "Worked as a freelance web developer, collaborating with clients to create custom websites and web applications. Managed projects from concept to deployment, ensuring client satisfaction and delivering high-quality solutions.",
-      "achievements": [
-        "Successfully completed 3+ freelance projects for small businesses and startups",
-        "Built responsive websites that improved client online presence and user engagement",
-        "Provided ongoing maintenance and support for client websites"
-      ],
-      "technologies": ["React", "JavaScript", "HTML/CSS", "Git", "Node.js"]
+      "technologies": ["Leadership", "Financial Record Management", "Administrative Coordination", "Team Operations"]
     }
   ],
   "credentials": {
     "certifications": [
       {
+        "name": "AI Fluency Training",
+        "issuer": "International Organisation of Employers (IOE) & Microsoft",
+        "date": "May 12, 2026",
+        "logo": "/ai cert for fluency.png"
+      },
+      {
+        "name": "AI for SMEs",
+        "issuer": "International Organisation of Employers (IOE) & Microsoft",
+        "date": "May 12, 2026",
+        "logo": "/ai cert for sme.png"
+      },
+      {
         "name": "Software Engineering Diploma",
-        "issuer": "SQI college of ICT ",
+        "issuer": "SQI College of ICT",
         "date": "2025",
         "logo": "/sqi.png"
       }
     ],
     "education": [
       {
-        "degree": "Bachelor of Arts in Linguistics and Language Studies",
-        "institution": "Federal University, Oye-Ekiti",
-        "year": "2018-2023",
+        "degree": "Bachelor of Arts (B.A.), Linguistics and Language",
+        "institution": "Federal University Oye-Ekiti, Ekiti State, Nigeria",
+        "year": "2017-2023",
         "logo": "/fuoye.jpeg"
-      },
-            {
-        "degree": "Software Engineering Diploma",
-        "institution": "SQI college of ICT ",
-        "year": "2024-2025",
-        "logo": "/sqi.png"
-      },
-      {
-        "degree": "Secondary School Certificate",
-        "institution": "Ayegun Baptist church college, Ogbomoso",
-        "year": "2015-2017",
-        "logo": "/placeholder-logo.png"
       }
     ],
     "skills": [
-      "Front-End Development",
-      "Back-End Development",
-      "API Design & Integration",
-      "Database Management",
-      "Database Design",
-      "Critical Thinking",
-      "Team Collaboration",
-      "Problem Solving",
-      "Code Review",
-      "Debugging"
+      "JavaScript (ES6+)",
+      "TypeScript",
+      "Node.js",
+      "React",
+      "Next.js",
+      "Express.js",
+      "MongoDB",
+      "Firebase",
+      "GraphQL",
+      "RESTful APIs",
+      "Git/GitHub",
+      "WordPress"
     ]
   },
   "technicalSkills": {
     "development": [
+      "JavaScript (ES6+)",
+      "TypeScript",
+      "Node.js",
       "HTML5",
       "CSS3",
-      "JavaScript",
-      "TypeScript",
-      "React.js",
+      "React",
       "Next.js",
-      "Node.js",
+      "Bootstrap",
+      "Redux",
+      "React Context API",
+      "Tailwind CSS",
       "Express.js",
       "MongoDB",
+      "Firebase",
       "GraphQL",
-      "Git",
-      "RESTful APIs",
-      "Responsive Design",
-      "Testing & Debugging",
-      "Performance Optimization",
-      "Authentication & Authorization",
-      "WebSockets",
-      "Docker"
+      "RESTful APIs"
     ],
     "tools": [
       "VS Code",
+      "Git",
       "GitHub",
-      "Postman",
-      "Chrome DevTools",
-      "Webpack",
-      "ESLint"
+      "WordPress",
+      "Docker",
+      "Postman"
     ],
     "other": [
-      "Version Control",
-      "Deployment",
-      "Agile Methodologies",
-      "CI/CD",
-      "Cloud Services (Render, Netlify, Azure, Vercel)",
-      "API Documentation",
-      "Security Best Practices"
+      "Data Structures and Algorithms (DSA)",
+      "Cloud Operations Concepts",
+      "Structured Data Management",
+      "Performance Optimization",
+      "Code Integrity",
+      "Version Control Workflows"
     ]
   },
-  "softSkills": ["Team Leadership", "Project Management", "Client Communication", "Mentoring", "Presentations"]
+  "softSkills": ["Leadership", "Administrative Management", "Problem Solving", "Logical Reasoning", "Team Collaboration"]
 }
